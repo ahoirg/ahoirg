@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=ahoirg" alt="page views" />
   </a>
   <a href="https://stackoverflow.com/users/6148788">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/6148788?color=orange&label=reputation&logo=stackoverflow">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/6148788?color=orange&label=Reputation&logo=stackoverflow">
   </a>
   
   <a href="https://linkedin.com/in/alihaydarozdag" target="_blank">
