@@ -19,16 +19,8 @@
 - ⚡ +4 years of professional work experience as a full stack developer and a mobile developer
 - 👯 You can always ask for help for open source and free software projects.
 
-<div align="center">
-  <p align="center">
-    <a href="https://lichess.org/@/ahoirg">
-      <b>Play Chess With Me :)</b>
-    </a>
-    <br>
-    </br>
-  </p>
-    <img src="https://img.shields.io/github/followers/ahoirg?label=Follow%20Me&style=social" />
- </div>
+[![Github Follow](https://img.shields.io/github/followers/ahoirg?label=Follow%20Me&style=social)](https://github.com/ahoirg)
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/17729246/228383954-68e0862e-5e60-43a8-be70-6630659d58e8.gif" />
 </div>
