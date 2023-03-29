@@ -21,6 +21,8 @@
 
 [![Github Follow](https://img.shields.io/github/followers/ahoirg?label=Follow%20Me&style=social)](https://github.com/ahoirg)
 
+[Play Chess With Me](https://lichess.org/@/ahoirg)
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/17729246/228392662-b6b340d3-1390-445e-9e71-06e00e9d5a6b.jpg" />
 </div>
