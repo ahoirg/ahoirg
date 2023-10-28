@@ -1,4 +1,7 @@
-![1647543407303](https://user-images.githubusercontent.com/17729246/228376579-c3f88922-a8a4-4586-bee9-cfc828a3f156.jpg)
+- ⚡ +4 years of professional experience as a full stack developer
+- 🔭 I’m currently studying Artificial Intelligence Engineering(M.Sc.) at Universitat Passau in Germany.
+- 🌱 I’m currently learning python
+- 👯 You can always ask for help for open source and free software projects.
 
 <p align="left">
   <a href="https://github.com/ahoirg">
@@ -13,13 +16,6 @@
   </a>
 </p>
 
-
-- 🔭 I’m currently studying Artificial Intelligence Engineering(M.Sc.) at Universitat Passau in Germany.
-- 🌱 I’m currently learning python
-- ⚡ +4 years of professional work experience as a full stack developer and a mobile developer
-- 👯 You can always ask for help for open source and free software projects.
-
-[![Github Follow](https://img.shields.io/github/followers/ahoirg?label=Follow%20Me&style=social)](https://github.com/ahoirg)
 <div align="center">
   <img src="https://user-images.githubusercontent.com/17729246/228392662-b6b340d3-1390-445e-9e71-06e00e9d5a6b.jpg" />
 </div>
