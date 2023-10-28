@@ -15,7 +15,3 @@
     <img src=https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/17729246/228392662-b6b340d3-1390-445e-9e71-06e00e9d5a6b.jpg" />
-</div>
