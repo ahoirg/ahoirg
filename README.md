@@ -14,5 +14,4 @@
 
 - ⚡ +4 years of professional experience as a full stack developer
 - 🔭 I’m currently studying Artificial Intelligence Engineering(M.Sc.) at Universitat Passau in Germany.
-- 🌱 I’m currently learning python
-- 👯 You can always ask for help for open source and free software projects.
+- 👯 You can always ask for help for open source or free software projects.
