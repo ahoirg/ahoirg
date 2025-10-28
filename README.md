@@ -16,6 +16,17 @@
   </a>
 </p>
 
-- ⚡ +4 years of professional experience as a full stack developer
-- 🔭 I’m currently studying Artificial Intelligence Engineering(M.Sc.) at Universitat Passau in Germany.
-- 👯 You can always ask for help for open source or free software projects.
+🎓 B.Sc. in Computer Science and Engineering | Celal Bayar University, Türkiye  
+🎓 M.Sc. in Artificial Intelligence Engineering | University of Passau, Germany  
+---
+💻 4+ years of professional experience as a Full-Stack Developer  
+🧠 3 years of research and development experience in Artificial Intelligence  
+:metal: Open to collaboration on open-source and free software projects
+---
+📘Immersive visualization module for vector field analysis of fiber-reinforced polymers, integrating topological data analysis and VR interaction. 
+[DOI: 10.13140/RG.2.2.20287.16802](https://doi.org/10.13140/RG.2.2.20287.16802)
+
+📄Analyzing Defense Mechanisms in Neural Network-Based State Estimation* —  
+Study on security of neural network-based state estimation in smart grids, analyzing adversarial attacks and defense strategies.  
+[DOI: 10.13140/RG.2.2.18609.44644](https://doi.org/10.13140/RG.2.2.18609.44644)
+
