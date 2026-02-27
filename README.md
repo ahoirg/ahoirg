@@ -26,7 +26,7 @@
 📘Immersive visualization module for vector field analysis of fiber-reinforced polymers, integrating topological data analysis and VR interaction. 
 [DOI: 10.13140/RG.2.2.20287.16802](https://doi.org/10.13140/RG.2.2.20287.16802)
 
-📄*Analyzing Defense Mechanisms in Neural Network-Based State Estimation* —  
+📄*Analyzing Defense Mechanisms in Neural Network-Based State Estimation* :  
 Study on security of neural network-based state estimation in smart grids, analyzing adversarial attacks and defense strategies.  
 [DOI: 10.13140/RG.2.2.18609.44644](https://doi.org/10.13140/RG.2.2.18609.44644)
 
