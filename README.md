@@ -1,21 +1,5 @@
 <p align="left">
-  <a href="https://github.com/ahoirg">
-    <img src="https://komarev.com/ghpvc/?username=ahoirg" alt="page views" />
-  </a>
-  
-  <a href="https://stackoverflow.com/users/6148788">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/6148788?color=orange&label=Reputation&logo=stackoverflow">
-  </a>
-
-  <a href="https://www.researchgate.net/profile/Ali-Oezdag" target="_blank">
-    <img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/ahoirg" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/alihaydarozdag" target="_blank">
-    <img src=https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white />
-  </a>
+  <a href="https://github.com/ahoirg"><img src="https://komarev.com/ghpvc/?username=ahoirg" alt="page views"></a> <a href="https://stackoverflow.com/users/6148788"><img src="https://img.shields.io/stackexchange/stackoverflow/r/6148788?color=orange&label=Reputation&logo=stackoverflow" alt="Stack Exchange reputation"></a> <a href="https://www.researchgate.net/profile/Ali-Oezdag" target="_blank"><img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white" alt="ResearchGate"></a> <a href="https://www.kaggle.com/ahoirg" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" alt="Kaggle"></a> <a href="https://linkedin.com/in/alihaydarozdag" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 🎓 B.Sc. in Computer Science and Engineering | Celal Bayar University, Türkiye  
