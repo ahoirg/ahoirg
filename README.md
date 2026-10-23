@@ -6,6 +6,7 @@
 🎓 M.Sc. in Artificial Intelligence Engineering | University of Passau, Germany  
 ---
 💻 8+ years of experience as a Software Engineer 
+
 🧠 3+ years of research and development experience in Artificial Intelligence  
 :metal: Open to collaboration on open-source or free software projects
 ---
